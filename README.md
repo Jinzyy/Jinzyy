@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jinzyy
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java & Web Engineer
 - 📫 How to reach me :
 - Instagram : rafael.deandra
 - Email : rafaeldeandra60@gmail.com
